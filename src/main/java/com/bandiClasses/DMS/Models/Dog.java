@@ -1,15 +1,15 @@
 package com.bandiClasses.DMS.Models;
-
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.ManyToOne;
 /**
- * @author s567126(ANIL KUMAR MEDA)
-
+ * @author (S572529) Chathurya Reddy Aenugu
  * 
  * 
  * 
  */
+import jakarta.persistence.Entity;
+
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
+
 @Entity
 public class Dog {
 	@Id

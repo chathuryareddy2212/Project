@@ -1,11 +1,12 @@
 package com.bandiClasses.DMS;
 /**
- * @author s567126(ANIL KUMAR MEDA)
-
+ * @author (S572529) Chathurya Reddy Aenugu
  * 
  * 
  * 
  */
+
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -1,5 +1,10 @@
 package com.bandiClasses.DMS.Models;
-
+/**
+ * @author (S572529) Chathurya Reddy Aenugu
+ * 
+ * 
+ * 
+ */
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
